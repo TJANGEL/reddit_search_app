@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/TJANGEL/reddit_search_app/issues"
   },
-  "homepage": "https://github.com/TJANGEL/reddit_search_app#readme"
+  "homepage": "https://github.com/TJANGEL/reddit_search_app#readme",
+  "dependencies": {
+    "autoprefixer": "^9.4.4",
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.11.0",
+    "postcss-modules": "^1.4.1",
+    "redditapi": "^1.0.1"
+  }
 }
